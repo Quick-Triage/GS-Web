@@ -8,7 +8,7 @@ const Error = () => {
 
       <p className='text-lg pb-10 mt-10'>Page Not Found</p>
 
-      
+      <p className='mb-20'>Clique <a href="/" className='text-[#0079C1] font-bold'>aqui</a> para voltar a pagina principal</p>
 
     </div>
   )
